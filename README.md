@@ -20,9 +20,9 @@ Adaptive design|
 
 <p align="left">
   <a href="https://vk.com/id377592112" target="_blank">
-    <img src="/vk_5968835.png" alt="VK" width="50" height="50"/>
+    <img src="/vk_5968835.png" alt="VK" width="100" height="100"/>
   </a>
   <a href="https://pin.it/6MWY5bV43" target="_blank">
-    <img src="/social_12942242 (1).png" alt="Pinterest" width="50" height="50"/>
+    <img src="/social_12942242 (1).png" alt="Pinterest" width="100" height="100"/>
   </a>
 </p>
