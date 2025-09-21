@@ -16,4 +16,5 @@ Adaptive design|
 
 ***
 ### My social networks
-    -[![VK](/vk_5968835.png)
+
+[![VK](vk_5968835.png)](https://vk.com/id377592112)
