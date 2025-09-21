@@ -18,3 +18,4 @@ Adaptive design|
 ### My social networks
 
 [![VK](vk_5968835.png)](https://vk.com/id377592112)
+[![Pinterest](social_12942242.png)](https://pin.it/6MWY5bV43)
