@@ -14,5 +14,5 @@ Type Script|
 React|
 Adaptive design|
 
-1.My social networks
+### My social networks
     -[![VK](/vk_5968835.png)
