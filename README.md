@@ -26,6 +26,6 @@ Adaptive design|
     <img src="/social_12942242 (1).png" alt="Pinterest" width="100" height="100"/>
   </a>
   <a href="https://steamcommunity.com/id/mrlivon/" target="_blank">
-    <img src="/steam_3670382 (1).png alt="Steam" width="100" height="100"/>
+    <img src="/steam_3670382 (1).png" alt="Steam" width="100" height="100"/>
   </a>
 </p>
