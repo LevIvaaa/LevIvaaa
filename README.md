@@ -15,4 +15,4 @@ React|
 Adaptive design|
 
 1.My social networks
-    -[![VK]()]
+    -[![VK](/vk_5968835.png)](https://vk.com/id377592112)
