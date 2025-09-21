@@ -15,4 +15,4 @@ React|
 Adaptive design|
 
 1.My social networks
-    -[![VK](vk_5968835.png)
+    -[![VK](/vk_5968835.png)
