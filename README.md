@@ -18,6 +18,11 @@ Adaptive design|
 ***
 ### My social networks
 
-[![VK](/vk_5968835.png)](https://vk.com/id377592112)
-
-[![Pinterest](/social_12942242%20(1).png)](https://pin.it/6MWY5bV43)
+<p align="left">
+  <a href="https://vk.com/id377592112" target="_blank">
+    <img src="/vk_5968835.png" alt="VK" width="50" height="50"/>
+  </a>
+  <a href="https://pin.it/6MWY5bV43" target="_blank">
+    <img src="/social_12942242 (1).png" alt="Pinterest" width="50" height="50"/>
+  </a>
+</p>
