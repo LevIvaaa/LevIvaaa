@@ -7,6 +7,7 @@ Here I will publish my projects that I create while learning Front-end 📖
 Skills | Mark
 :------|----:
 GitHub|✅
+MarkDown|✅
 HTML|
 CSS|
 Java Script|
@@ -19,4 +20,4 @@ Adaptive design|
 
 [![VK](/vk_5968835.png)](https://vk.com/id377592112)
 
-[![Pinterest](/social_12942242.png)](https://pin.it/6MWY5bV43)
+[![Pinterest](/social_12942242%20(1).png)](https://pin.it/6MWY5bV43)
