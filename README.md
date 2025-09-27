@@ -8,7 +8,7 @@ Skills | Mark
 :------|----:
 GitHub|✅
 MarkDown|✅
-HTML|
+HTML|✅
 CSS|
 Java Script|
 Type Script|
