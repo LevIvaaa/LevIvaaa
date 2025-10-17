@@ -9,7 +9,7 @@ Skills | Mark
 GitHub|✅
 MarkDown|✅
 HTML|✅
-CSS|
+CSS|✅
 Java Script|
 Type Script|
 React|
