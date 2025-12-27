@@ -10,7 +10,7 @@ GitHub|✅
 MarkDown|✅
 HTML|✅
 CSS|✅
-Java Script||✅
+Java Script|✅
 Type Script|
 React|
 Adaptive design|
