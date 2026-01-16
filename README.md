@@ -13,7 +13,7 @@ CSS|✅
 Java Script|✅
 Type Script|
 React|
-Adaptive design|
+Adaptive design|✅
 
 ***
 ### My social networks
