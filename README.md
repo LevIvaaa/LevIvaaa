@@ -45,7 +45,7 @@ I build **MCP servers** that connect company systems to Claude: over **100 tools
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kitsu-code-dark.svg"><img src="assets/project-kitsu-code-light.svg" width="49%" alt="Kitsu Code: my own VS Code distribution without telemetry or Microsoft services, with extension signature checks and its own branding"></picture>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nya-browser-dark.svg"><a href="https://github.com/LevIvaaa/Nya-Browser"><img src="assets/project-nya-browser-light.svg" width="49%" alt="Nya Browser: a fast, private desktop browser with network-level ad blocking, vertical tabs, reading mode, 65 languages and auto-updates"></a></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nya-browser-dark.svg"><img src="assets/project-nya-browser-light.svg" width="49%" alt="Nya Browser: a fast, private desktop browser with network-level ad blocking, vertical tabs, reading mode, 65 languages and auto-updates"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-deb-installer-dark.svg"><img src="assets/project-deb-installer-light.svg" width="49%" alt="Deb Installer: a GTK 4 app that installs .deb packages safely with dependency, conflict and maintainer-script checks"></picture>
 </p>
 
